@@ -1,1 +1,72 @@
-<div align="center">Hi there, I'm Adeel Ahmad 👋I'm a passionate and driven Computer Science student at UC Santa Cruz, with a love for building scalable, high-performance software that solves real-world problems. From crafting distributed backend systems to designing user-friendly mobile apps, I thrive on tackling complex challenges and turning ideas into reality.</div>👨‍💻 About Me🎓   Studying Computer Science at the University of California, Santa Cruz (Class of 2026).💡   Interested in distributed systems, AI/ML integration, and full-stack development.🌱   Currently exploring cloud-native architectures and diving deeper into Go and Rust.💬   Let's connect! I'm always open to discussing new technologies, interesting projects, or internship opportunities.🚀 What I'm Working OnHere are a few projects I'm proud of. You can find more on my repositories tab!Project NameDescriptionTech StackHigh-Concurrency Discord BotEngineered a scalable backend in Python serving over 30,000 concurrent users. Features a REST API with a PostgreSQL database for persistent data.Python Django PostgreSQL AsyncioFull-Stack Pantry CRMBuilt a full-stack CRM from scratch using Next.js (React) and custom RFID hardware to streamline operations for a non-profit, cutting check-in time by 75%.Next.js React Node.js ESP32 RFIDMulti-Threaded HTTP ServerArchitected a high-performance HTTP server in C/C++ from first principles, capable of handling thousands of requests per second using POSIX threads.C C++ POSIX Threads ConcurrencyAI-Powered Reading AppDeveloped a cross-platform mobile app using React Native that integrates a Gemini LLM to provide users with unique, AI-generated reading personalities.React Native JavaScript LLM API🛠️ My Tech StackThese are some of the technologies I enjoy working with:<p align="center"><a href="https://skillicons.dev"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,cpp,c,js,ts,react,angular,nodejs,django,postgres,aws,gcp,docker,git" /></a></p>📊 My GitHub Stats<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadeelamad%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Adeel's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadeelamad%26layout%3Dcompact%26theme%3Dradical" alt="Adeel's Top Languages" /></p>📫 Let's Connect!I'm currently seeking Summer 2026 internship opportunities where I can contribute to challenging projects and grow as an engineer. Feel free to reach out!<p align="center"><a href="https://www.linkedin.com/in/adeel-ahmad-26847524a/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile"/></a>&nbsp;<a href="mailto:aahmad9@ucsc.edu"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Me"/></a></p>
+<h2 align="left">Hi 👋! My name is Adeel and I'm a software developer, from Brentwood, CA.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdeelAmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdeelAmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=_leep&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:theadeelahmad07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/adeelahmad0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AdeelAmad/AdeelAmad/output/snake.svg" alt="Snake animation" />
+
+###
